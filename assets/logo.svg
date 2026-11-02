@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="MKE logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f5c3d"/>
+      <stop offset="1" stop-color="#2e8b57"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="108" height="108" rx="26" fill="url(#g)"/>
+  <!-- leaf accent -->
+  <path d="M84 30c10 6 14 20 8 34-4 9-12 15-21 17 2-10 0-20-6-27 8 1 15-1 19-6 3-4 3-12 0-18z" fill="#f0a500" opacity="0.95"/>
+  <!-- wrench accent -->
+  <path d="M40 34a12 12 0 0 0 10 18h3l20 20a7 7 0 0 0 10-10L53 42a12 12 0 1 0-13-8z" fill="#ffffff" opacity="0.92"/>
+  <text x="60" y="104" text-anchor="middle" font-family="Poppins, Arial, sans-serif" font-weight="700" font-size="26" fill="#ffffff" letter-spacing="2">MKE</text>
+</svg>
