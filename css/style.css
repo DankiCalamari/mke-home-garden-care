@@ -241,6 +241,8 @@ p  { margin: 0 0 16px; }
 .form .note { font-size: .82rem; color: var(--muted); margin-top: 12px; }
 .form-ok { display: none; background: #e7f2ea; color: var(--green-900); border: 1px solid var(--green-300); border-radius: 10px; padding: 14px 16px; margin-bottom: 18px; font-weight: 500; }
 .form-ok.show { display: block; }
+.form-err { display: none; background: #fce8e8; color: #7a1f1f; border: 1px solid #f5a3a3; border-radius: 10px; padding: 14px 16px; margin-bottom: 18px; font-weight: 500; }
+.form-err.show { display: block; }
 
 /* ---------- Service area ---------- */
 .area-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 24px; list-style: none; margin: 0; padding: 0; }
